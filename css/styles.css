@@ -24,16 +24,16 @@
   box-sizing: border-box;
 }
 footer{
-  background-color: #f2f2f2;
+  background-color: #5c5656;
   margin-top: 2%;
   height: 30px;
 }
 #header{
-  background-color: #f2f2f2; 
+  background-color: #5e3030; 
 }
 body{
   background-image: url(https://www.google.com/search?q=ghanaian+symbols&tbm=isch&ved=2ahUKEwjM6de3k4HvAhUB5IUKHZJBD0sQ2-cCegQIABAA&oq=ghanain+s&gs_lcp=CgNpbWcQARgDMgYIABAKEBgyBggAEAoQGDIGCAAQChAYMgYIABAKEBgyBggAEAoQGDIGCAAQChAYMgYIABAKEBgyBggAEAoQGDIGCAAQChAYMgYIABAKEBg6BAgjECc6BAgAEEM6BQgAELEDOggIABCxAxCDAToHCCMQ6gIQJzoCCAA6BAgAEApQtpkBWNXiAWCg-gFoAnAAeASAAZECiAG4GZIBBjAuNC4xMZgBAKABAaoBC2d3cy13aXotaW1nsAEKwAEB&sclient=img&ei=lo41YMzGFoHIlwSSg73YBA&bih=981&biw=1848#imgrc=0UsHOqvkLspSXM)
 }
 #result{
-  color: blue;
+  color: rgb(34, 34, 133);
 }
