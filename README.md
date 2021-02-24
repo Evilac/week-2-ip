@@ -3,6 +3,7 @@
 #Author Jeremy Masaku Muchogo
 
 link to the website
+https://evilac.github.io/week-2-ip/
 #Just click the link below
 # BDD
 * The application requires the user to fill in their details in a form: ie Enter their date of birth and choose their their gender. 
